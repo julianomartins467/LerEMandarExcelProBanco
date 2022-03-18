@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Openk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Openk\\.nuget\\packages"
+    ]
+  }
+}
